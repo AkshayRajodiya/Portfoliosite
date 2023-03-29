@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+.hh-2{
+    font-family: 'Anton' sans-serif;
+    font-style: italic;
+    color: rgba(202, 36, 50, 0.801);
+    margin-left: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-fluid{
+    background:url("../assets/Header.jpg");
+    background-size: cover;
+    width: auto;
+    height: 500px;
+}

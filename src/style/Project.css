@@ -1,0 +1,23 @@
+.project-h2{
+    margin: 10px 20px 10px 30px;
+        padding-left: 20px;
+        padding-top: 20px;
+        border-radius: 25px;
+        background: #f5f6f3;  
+        font-weight: bolder;
+        text-decoration: underline;
+    }
+
+    .card{
+        width: 288px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }
+
+    .project-col{
+        padding-top: 20px;
+        margin: auto;
+        margin-top: 10px;
+        
+    }

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+body{
+    font-family: 'Anton' sans-serif;
+}
+
+ul{
+    margin-left: auto;
+    font-weight: bold;
+}
+
+.navbar-nav>li>a{
+    color: aliceblue;
+}
+.navbar-brand{
+    margin: 30px 30px 30px 30px;
+    color: aliceblue;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.navbar-toggler-icon{
+    background-color:#61767a;
+    margin-right: 30px;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+}

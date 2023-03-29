@@ -1,0 +1,43 @@
+
+.rounded-circle{
+    height: 480px;
+    width: 480px;
+    margin:10px 10px 10px 50px;
+}
+.top{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 25px;
+    background: #f5f6f3; 
+}
+
+.top>h2{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.bottom{
+    border-radius: 25px;
+  background: #f5f6f3;
+  width: 500px;
+  height: 300px;  
+}
+
+.para{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    line-height: 1.6em;
+    font-size: 16px;
+}
+
+.button{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+}
