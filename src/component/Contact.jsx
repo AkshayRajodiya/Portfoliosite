@@ -13,7 +13,7 @@ const Contact = () => {
 <a className="btn btn-outline-light btn-floating m-1" target="_blank" href="https://www.linkedin.com/in/
 akshay-rajodiya" role="button"
         ><LinkedinIcon /></a>
-      <a className="btn btn-outline-light btn-floating m-1" href="https://github.com/AkshayRajodiya" role="button"
+      <a className="btn btn-outline-light btn-floating m-2" href="https://github.com/AkshayRajodiya" role="button"
         ><GithubIcon /></a>
       <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
